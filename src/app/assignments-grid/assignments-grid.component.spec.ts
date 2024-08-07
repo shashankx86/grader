@@ -11,7 +11,7 @@ describe('AssignmentsGridComponent', () => {
       imports: [AssignmentsGridComponent]
     })
     .compileComponents();
-    
+
     fixture = TestBed.createComponent(AssignmentsGridComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();

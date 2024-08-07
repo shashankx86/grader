@@ -23,7 +23,7 @@ export class AssignmentCardComponent {
 
   // Represents the status of the assignment card
   assignmentStatusTitle: string = "Uploaded"
-  
+
   // Represents the upload date on the assignment card
   uploadDate: string = "19.04.2024"
 
